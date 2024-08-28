@@ -16,3 +16,9 @@ To design an intelligent system that leverages principles of Complex Systems, mo
 * Permutation City: https://en.wikipedia.org/wiki/Permutation_City
 
 (A sci-fi novel from 1995 that introduced the Autoverse system, a simulated universe based on cellular automata. The name of this project, AutoTofu, is a tribute to that novel.)
+
+# Memos
+
+* Functional Neural Cellular Automata (fNCA)
+
+An NCA's output can be more than just an image or morphology; it can be a functional system. By seeding a functional NCA, you can create a runnable function that performs a specific task.
